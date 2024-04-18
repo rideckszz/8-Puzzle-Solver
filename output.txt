@@ -1,0 +1,6 @@
+Caminhos até o Destino: ['Direita', 'Baixo', 'Esquerda', 'Cima', 'Direita', 'Direita', 'Baixo', 'Baixo', 'Esquerda', 'Cima', 'Esquerda', 'Baixo', 'Direita', 'Cima', 'Cima', 'Direita', 'Baixo', 'Baixo', 'Esquerda', 'Cima', 'Cima', 'Esquerda', 'Baixo', 'Direita', 'Cima', 'Direita', 'Baixo', 'Esquerda', 'Esquerda', 'Cima']
+Custo do caminho: 30
+Nodos expandidos: 15569
+Profundidade da Pesquisa (Search Depth): 30
+Profundidade máxida da pesquisa(Max Search Depth): 30
+Tempo total de execução: 4.72860383
