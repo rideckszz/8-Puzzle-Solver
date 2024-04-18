@@ -9,7 +9,7 @@ This Python script provides implementations of three search algorithms - Breadth
 
 Install tqdm using pip:
 
-pip install tqdm
+`pip install tqdm`
 
 
 ## Usage
@@ -22,10 +22,6 @@ Run the script `eight_puzzle_solver.py` with Python, providing the method and in
 
 If no arguments are provided, the script will prompt you to enter the method and initial board configuration interactively.
 
-## Example
-
-
-This command will solve the Eight Puzzle using the A* Search algorithm with the initial board configuration `1,2,3,4,5,6,7,8,0`.
 
 ## Output
 
